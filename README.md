@@ -7,3 +7,17 @@
 顺便附上图片
 
 ![image](https://github.com/ClarkKentChen/douban/blob/master/my-project/images/1.png)
+
+![image](https://github.com/ClarkKentChen/douban/blob/master/my-project/images/2.png)
+
+
+![image](https://github.com/ClarkKentChen/douban/blob/master/my-project/images/3.png)
+
+
+![image](https://github.com/ClarkKentChen/douban/blob/master/my-project/images/4.png)
+
+
+![image](https://github.com/ClarkKentChen/douban/blob/master/my-project/images/5.png)
+
+
+![image](https://github.com/ClarkKentChen/douban/blob/master/my-project/images/7.png)
