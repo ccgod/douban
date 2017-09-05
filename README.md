@@ -6,3 +6,4 @@
 
 顺便附上图片
 
+![image](https://github.com/ClarkKentChen/douban/blob/master/my-project/images/1.png)
