@@ -28,3 +28,11 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+这是一个 仿豆瓣的一个移动端 （暂时还没完善  适合新手观看  简单的 vue+vue-router+xios）
+
+
+顺便附上图片
+
